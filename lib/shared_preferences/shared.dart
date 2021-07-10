@@ -11,7 +11,7 @@ Future<String> getUserToken() async {
 Future<String> getUserName() async {
   final shared = await SharedPreferences.getInstance();
   String user_name = shared.getString('user_name') ?? '';
-  return user_name;1
+  return user_name;
 }
 
 //set and remove user token and user name

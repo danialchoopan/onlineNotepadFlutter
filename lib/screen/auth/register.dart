@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:notepad_laravel_api/model/base/api_response.dart';
 import 'package:notepad_laravel_api/model/user.dart';
-import 'package:notepad_laravel_api/screen/notes.dart';
+import 'package:notepad_laravel_api/screen/notes/notes.dart';
 import 'package:notepad_laravel_api/services/user_service.dart';
 import 'package:notepad_laravel_api/shared_preferences/shared.dart';
 

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:notepad_laravel_api/screen/auth/login.dart';
 import 'package:notepad_laravel_api/screen/auth/register.dart';
-import 'package:notepad_laravel_api/screen/notes.dart';
+import 'package:notepad_laravel_api/screen/notes/notes.dart';
 import 'package:notepad_laravel_api/shared_preferences/shared.dart';
 
 void main() {
